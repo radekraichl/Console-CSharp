@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadavaniVstupu", "ZadavaniVstupu\ZadavaniVstupu.csproj", "{51D8FF0B-B4A1-4FEF-AEA4-2F7C685FCFB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZadavaniVstupu", "ZadavaniVstupu\ZadavaniVstupu.csproj", "{51D8FF0B-B4A1-4FEF-AEA4-2F7C685FCFB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzaVstupu", "AnalyzaVstupu\AnalyzaVstupu.csproj", "{7DD6C556-5AB9-4D61-BFA3-4F985FF39216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnalyzaVstupu", "AnalyzaVstupu\AnalyzaVstupu.csproj", "{7DD6C556-5AB9-4D61-BFA3-4F985FF39216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZvukovyVystup", "ZvukovyVystup\ZvukovyVystup.csproj", "{FEB8479F-DBCD-42B0-B676-B76D70D1438C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7DD6C556-5AB9-4D61-BFA3-4F985FF39216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DD6C556-5AB9-4D61-BFA3-4F985FF39216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DD6C556-5AB9-4D61-BFA3-4F985FF39216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB8479F-DBCD-42B0-B676-B76D70D1438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB8479F-DBCD-42B0-B676-B76D70D1438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB8479F-DBCD-42B0-B676-B76D70D1438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB8479F-DBCD-42B0-B676-B76D70D1438C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
