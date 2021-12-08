@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZvukovyVystup", "ZvukovyVys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JednaciMistnost", "JednaciMistnost\JednaciMistnost.csproj", "{FF86F275-DD57-49F6-994B-794DA0DED5B7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NahodnaMelodie", "NahodnaMelodie\NahodnaMelodie.csproj", "{BE87DCCD-1050-4B78-8E93-04F0112D2C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatovani", "Formatovani\Formatovani.csproj", "{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FF86F275-DD57-49F6-994B-794DA0DED5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF86F275-DD57-49F6-994B-794DA0DED5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF86F275-DD57-49F6-994B-794DA0DED5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
