@@ -13,7 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JednaciMistnost", "JednaciM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NahodnaMelodie", "NahodnaMelodie\NahodnaMelodie.csproj", "{BE87DCCD-1050-4B78-8E93-04F0112D2C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatovani", "Formatovani\Formatovani.csproj", "{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formatovani", "Formatovani\Formatovani.csproj", "{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nastaveni", "Nastaveni\Nastaveni.csproj", "{DF79DC2E-9303-45F3-A090-6681E668E4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurzor", "Kurzor\Kurzor.csproj", "{806BA95D-4E67-4661-A198-2B96B4E92B01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806BA95D-4E67-4661-A198-2B96B4E92B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806BA95D-4E67-4661-A198-2B96B4E92B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806BA95D-4E67-4661-A198-2B96B4E92B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806BA95D-4E67-4661-A198-2B96B4E92B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
