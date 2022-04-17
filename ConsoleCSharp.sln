@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JednaciMistnost", "JednaciM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NahodnaMelodie", "NahodnaMelodie\NahodnaMelodie.csproj", "{BE87DCCD-1050-4B78-8E93-04F0112D2C07}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formatovani", "Formatovani\Formatovani.csproj", "{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nastaveni", "Nastaveni\Nastaveni.csproj", "{DF79DC2E-9303-45F3-A090-6681E668E4D1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kurzor", "Kurzor\Kurzor.csproj", "{806BA95D-4E67-4661-A198-2B96B4E92B01}"
@@ -16,6 +14,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputAnalysis", "InputAnalysis\InputAnalysis.csproj", "{A52E10E2-FA5F-4239-8C29-AB61F1650BD2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioOutput", "AudioOutput\AudioOutput.csproj", "{B6331F25-6112-430F-8D3B-E46163D12EBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formatting", "Formatting\Formatting.csproj", "{7A68FFD5-85DC-4B04-AF25-13E5BEA39669}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,6 @@ Global
 		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE87DCCD-1050-4B78-8E93-04F0112D2C07}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6C99758-56DB-4712-9B3E-3F0E144C0C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF79DC2E-9303-45F3-A090-6681E668E4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{B6331F25-6112-430F-8D3B-E46163D12EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6331F25-6112-430F-8D3B-E46163D12EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6331F25-6112-430F-8D3B-E46163D12EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A68FFD5-85DC-4B04-AF25-13E5BEA39669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A68FFD5-85DC-4B04-AF25-13E5BEA39669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A68FFD5-85DC-4B04-AF25-13E5BEA39669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A68FFD5-85DC-4B04-AF25-13E5BEA39669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
