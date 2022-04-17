@@ -11,8 +11,8 @@ namespace JednaciMistnost
             Console.WriteLine("Pro ukončení programu stiskni ESC.");
             Console.WriteLine();
 
-            var jednaciMistnost = new JednaciMistnost(0);
-            Console.WriteLine(jednaciMistnost);
+            var meetingRoom = new MeetingRoom(0);
+            Console.WriteLine(meetingRoom);
 
             ConsoleKeyInfo keyInfo;
 
@@ -22,15 +22,15 @@ namespace JednaciMistnost
 
                 if (keyInfo.Key == ConsoleKey.UpArrow)
                 {
-                    jednaciMistnost.PocetLidi++;
-                    Console.WriteLine(jednaciMistnost);
+                    meetingRoom.PeopleCount++;
+                    Console.WriteLine(meetingRoom);
                 }
                 if (keyInfo.Key == ConsoleKey.DownArrow)
                 {
-                    jednaciMistnost.PocetLidi--;
-                    Console.WriteLine(jednaciMistnost);
+                    meetingRoom.PeopleCount--;
+                    Console.WriteLine(meetingRoom);
                 }
-            } 
+            }
             while (keyInfo.Key != ConsoleKey.Escape);
         }
     }
