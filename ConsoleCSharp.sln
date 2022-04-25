@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cursor", "Kurzor\Cursor.csproj", "{806BA95D-4E67-4661-A198-2B96B4E92B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursorSettings", "Kurzor\CursorSettings.csproj", "{806BA95D-4E67-4661-A198-2B96B4E92B01}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputAnalysis", "InputAnalysis\InputAnalysis.csproj", "{A52E10E2-FA5F-4239-8C29-AB61F1650BD2}"
 EndProject
